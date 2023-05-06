@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknbhunter=self.webpackChunknbhunter||[]).push([[431],{5431:function(n,u,e){e.r(u);var t=e(184);u.default=function(){return(0,t.jsx)("div",{children:"Soobshit Oshibku"})}}}]);
+//# sourceMappingURL=431.0676e2a3.chunk.js.map

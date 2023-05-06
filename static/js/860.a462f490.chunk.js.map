@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/860.a462f490.chunk.js","mappings":"6HAKA,UALgC,WAC5B,OACE,2CAEH,C","sources":["pages/Sotrudnicestvo.tsx"],"sourcesContent":["const Sotrudnicestvo:React.FC = () => {\r\n    return (\r\n      <div>sotrudnicestvo</div>\r\n     )\r\n   }\r\nexport default Sotrudnicestvo"],"names":[],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknbhunter=self.webpackChunknbhunter||[]).push([[886],{6886:function(n,e,t){t.r(e);var u=t(184);e.default=function(){return(0,u.jsx)("div",{children:"Kontakti"})}}}]);
+//# sourceMappingURL=886.dce0bdc2.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknbhunter=self.webpackChunknbhunter||[]).push([[402],{5402:function(n,e,u){u.r(e);var r=u(184);e.default=function(){return(0,r.jsx)("div",{children:"Principi"})}}}]);
+//# sourceMappingURL=402.ba401f96.chunk.js.map

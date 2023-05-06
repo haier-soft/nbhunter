@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknbhunter=self.webpackChunknbhunter||[]).push([[808],{1808:function(n,u,e){e.r(u);var t=e(184);u.default=function(){return(0,t.jsx)("div",{children:"Konsultaciya"})}}}]);
+//# sourceMappingURL=808.4081f1db.chunk.js.map

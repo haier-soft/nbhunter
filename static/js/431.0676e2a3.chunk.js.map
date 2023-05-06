@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/431.0676e2a3.chunk.js","mappings":"6HAKG,UAL8B,WAC7B,OACE,6CAEH,C","sources":["pages/SoobshitOshibku.tsx"],"sourcesContent":["const SoobshitOshibku:React.FC = () => {\r\n    return (\r\n      <div>Soobshit Oshibku</div>\r\n     )\r\n   }\r\n   export default SoobshitOshibku"],"names":[],"sourceRoot":""}

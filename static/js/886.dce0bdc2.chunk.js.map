@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/886.dce0bdc2.chunk.js","mappings":"6HAKA,UAL0B,WACtB,OACE,qCAEH,C","sources":["pages/Kontakty.tsx"],"sourcesContent":["const Kontakty:React.FC = () => {\r\n    return (\r\n      <div>Kontakti</div>\r\n     )\r\n   }\r\nexport default Kontakty"],"names":[],"sourceRoot":""}

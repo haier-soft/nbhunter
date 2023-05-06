@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknbhunter=self.webpackChunknbhunter||[]).push([[860],{7860:function(n,e,u){u.r(e);var t=u(184);e.default=function(){return(0,t.jsx)("div",{children:"sotrudnicestvo"})}}}]);
+//# sourceMappingURL=860.a462f490.chunk.js.map
