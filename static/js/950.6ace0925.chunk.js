@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunknb_hunter=self.webpackChunknb_hunter||[]).push([[950],{2950:function(e,n,s){s.r(n);var r=s(184);n.default=function(){return(0,r.jsx)("form",{className:"form",children:(0,r.jsx)("div",{className:"container form__container",children:(0,r.jsxs)("label",{className:"form__item",children:[(0,r.jsx)("input",{type:"text"}),(0,r.jsx)("span",{children:"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f"})]})})})}}}]);
-//# sourceMappingURL=950.6ace0925.chunk.js.map
