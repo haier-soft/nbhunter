@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nbhunter/static/css/main.7a59490b.css",
-    "main.js": "/nbhunter/static/js/main.50aff759.js",
+    "main.js": "/nbhunter/static/js/main.447aa474.js",
     "static/js/225.e0b307f2.chunk.js": "/nbhunter/static/js/225.e0b307f2.chunk.js",
     "static/js/757.ebb5e98b.chunk.js": "/nbhunter/static/js/757.ebb5e98b.chunk.js",
     "static/js/950.6ace0925.chunk.js": "/nbhunter/static/js/950.6ace0925.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/search.svg": "/nbhunter/static/media/search.5cd05dcb3fc968a38346.svg",
     "static/media/arrowdrop.svg": "/nbhunter/static/media/arrowdrop.929184b4d1b50f648172.svg",
     "main.7a59490b.css.map": "/nbhunter/static/css/main.7a59490b.css.map",
-    "main.50aff759.js.map": "/nbhunter/static/js/main.50aff759.js.map",
+    "main.447aa474.js.map": "/nbhunter/static/js/main.447aa474.js.map",
     "225.e0b307f2.chunk.js.map": "/nbhunter/static/js/225.e0b307f2.chunk.js.map",
     "757.ebb5e98b.chunk.js.map": "/nbhunter/static/js/757.ebb5e98b.chunk.js.map",
     "950.6ace0925.chunk.js.map": "/nbhunter/static/js/950.6ace0925.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.7a59490b.css",
-    "static/js/main.50aff759.js"
+    "static/js/main.447aa474.js"
   ]
 }
